@@ -1,0 +1,30 @@
+.img-one{width: 123.2%;height: -10%;margin-left: -12%;margin-top: -20%;}
+.section-one{background-color: white;border: 2px solid black;width: 55%;margin-left: 25%;margin-top: -20%;
+display: inline-block;border-radius: 5%;padding-left: 20px;}
+.title{margin-top: -13%;margin-left: 25px;padding-top: 25px;font-weight: 700;font-size: xxx-large;padding-left: 30px;}
+.q-one{font-weight: 700;}
+.q-two{font-weight: 700;}
+.q-three{font-weight: 700;}
+.q-four{font-weight: 700;}
+.q-five{font-weight: 700;}
+
+#pargOne{font-weight: 400;display: none;}
+#buttonOne{position: static;border-radius: 30%;color:white;font-weight: 1000;font-size: x-large;background-color: rgb(173, 98, 243);}
+#buttonTwo{position: static;border-radius: 30%;display: none;color:white;background-color: rgb(173, 98, 243);font-weight: 1000;font-size: x-large;}
+#buttonThree{position: static;border-radius: 30%;color:white;font-weight: 1000;font-size: x-large;background-color: rgb(173, 98, 243);}
+#buttonFour{position: static;border-radius: 30%;display: none;color:white;background-color: rgb(173, 98, 243);font-weight: 1000;font-size: x-large;}
+#buttonFive{position: static;border-radius: 30%;color:white;font-weight: 1000;font-size: x-large;background-color: rgb(173, 98, 243);}
+#buttonSix{position: static;border-radius: 30%;display: none;color:white;background-color: rgb(173, 98, 243);font-weight: 1000;font-size: x-large;}
+#buttonSeven{position: static;border-radius: 30%;color:white;font-weight: 1000;font-size: x-large;background-color: rgb(173, 98, 243);}
+#buttonEight{position: static;border-radius: 30%;display: none;color:white;background-color: rgb(173, 98, 243);font-weight: 1000;font-size: x-large;}
+#buttonNine{position: static;border-radius: 30%;color:white;font-weight: 1000;font-size: x-large;background-color: rgb(173, 98, 243);}
+#buttonTen{position: static;border-radius: 30%;display: none;color:white;background-color: rgb(173, 98, 243);font-weight: 1000;font-size: x-large;}
+#pargTwo{font-weight: 400;display: none;}
+#pargThree{font-weight: 400;display: none;}
+#pargFour{font-weight: 400;display: none;}
+#pargFive{font-weight: 400;display: none;}
+.q-one:hover{color: rgb(84, 31, 133);cursor: pointer;caret-color: black;}
+.q-two:hover{color: rgb(84, 31, 133);cursor: pointer;}
+.q-three:hover{color: rgb(84, 31, 133);cursor: pointer;}
+.q-four:hover{color: rgb(84, 31, 133);cursor: pointer;}
+.q-five:hover{color: rgb(84, 31, 133);cursor: pointer;}
